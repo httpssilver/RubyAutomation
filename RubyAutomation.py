@@ -37,7 +37,7 @@ except ModuleNotFoundError:
         ask = input("Installation finished.")
         exit()
 
-scriptVersion = 4
+scriptVersion = 6
 def whichPythonCommand():
     LocalMachineOS = platform.system()
     if (
@@ -81,7 +81,7 @@ def versionChecker():
                     "embeds": [
                         {
                             "title": "New version!",
-                            "description": f" ```Detected new update in https://github.com/EznoTester/Ruby-Automation ```",
+                            "description": f" ```Detected new update in https://github.com/epicofcats/RubyAutomation ```",
                             "color": 16758465,
                             "footer": {
                                 "text": "The current version will still work."
