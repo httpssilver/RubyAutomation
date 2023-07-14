@@ -364,8 +364,8 @@ async def on_ready():
     versionCheck = threading.Thread(target=versionChecker)
     versionCheck.start()
 
-    checkValueThread = threading.Thread(target=checkValue)
-    checkValueThread.start()
+    # checkValueThread = threading.Thread(target=checkValue)
+    # checkValueThread.start()
 
     checks = 0
     while True:
