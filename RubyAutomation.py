@@ -1,4 +1,4 @@
-# Most of the code made by Java#9999 -  Modified by dys and silver
+# Most of the code made by Java#9999 -  Modified by silver
 import pip 
 try:
     import discord
@@ -627,7 +627,7 @@ async def info(ctx):
         inline=False,
     )
     embed.add_field(name=f"Utilitys", value=f"```{prefix}more  --Look at some general information\n{prefix}ping  --Check the bot response time\n{prefix}screenshot --Screenshot your mewt```", inline=False)   
-    embed.set_footer(text="Originally by Java#9999 - Modified by dys and silver")
+    embed.set_footer(text="Originally by Java#9999 - Modified by silver")
     await ctx.author.send(embed=embed)
 
 #remove all command
@@ -775,7 +775,7 @@ async def more(ctx):
     embed.add_field(name="Scan speed:", value=scan_speed, inline=False)
     embed.add_field(name="Watching:", value=watching if watching else "No items", inline=False)
     embed.add_field(name="Runtime:", value=runtime, inline=False)
-    embed.set_footer(text="Originally by Java#9999 - Modified by dys and silver")
+    embed.set_footer(text="Originally by Java#9999 - Modified by silver")
     await ctx.reply(embed=embed)
 
 #cookie command
