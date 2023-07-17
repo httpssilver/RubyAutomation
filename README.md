@@ -8,6 +8,6 @@ Once you are done, drag "RubyAutomation" to your mewt folder and run it. It will
 
 Remember to join the Ruby Automation server to get updates and news: https://discord.gg/rD4GMWWC  
 shoutout to Kenneth's server for being goated at notifying for ugcs: https://discord.gg/ugcleaks  
-Credits to Java#9999 for original code. (dw we removed the logger part lmao)  
+Credits to Java#9999 for original code.
 
 TUTORIAL: WIP
