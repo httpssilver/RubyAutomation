@@ -1,6 +1,5 @@
 Thank you for using RubyAutomation. 
-An extension made by taxthefuckingpoor and other people for Mewt
-
+An extension originally made by java and modified by siillver, dys, hardish and taxthefuckingpoor
 How to use:
 -Drag the file "RubyAutomation" in your mewt sniper folder
 -Click on your windows key and look for cmd, then open a cmd and execute this code:        pip install discord psutil robloxapi pyautogui
